@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '5268'
     url: http://www.gutenberg.org/2009/agents/5268
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20661#The-Romance-of-an-Old-Fool
 gutenberg_issued: '2007-02-24'
 gutenberg_type: Text
 identifiers:
