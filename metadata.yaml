@@ -1,0 +1,30 @@
+_repo: The-Romance-of-an-Old-Fool_20661
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Field, Roswell Martin
+    aliases:
+    - Field, R. M. (Roswell Martin)
+    - Field, Roswell M. (Roswell Martin)
+    birthdate: 1851
+    deathdate: 1919
+    gutenberg_agent_id: '5268'
+    url: http://www.gutenberg.org/2009/agents/5268
+description: ''
+gutenberg_issued: '2007-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20661'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Love stories'
+- !lcsh 'Fiction'
+title: The Romance of an Old Fool
+url: http://www.gutenberg.org/ebooks/20661
